@@ -1,0 +1,2 @@
+i writed some text from gush
+i want to add this contekst into file tiko.txt
